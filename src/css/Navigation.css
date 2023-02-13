@@ -1,0 +1,10 @@
+.nav-list{
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+
+.nav-list li{
+    margin: 15px;
+}
