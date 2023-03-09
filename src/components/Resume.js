@@ -1,12 +1,13 @@
 import React from "react";
+import resume from "./images/Resume.png";
 
-// Whenever we try to render an array containing JSX, React knows to render each JSX element separately
 function Resume() {
   return (
    <div>
 
-    <h2>This is where the Resume info goes</h2>
-
+<a href={resume} download>Resume
+<img src={resume}></img>
+</a>
    </div>
   );
 }
