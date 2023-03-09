@@ -5,8 +5,6 @@ import Navigation from "./Navigation";
 function Header() {
   return (
    <div>
-
-    <h2>This is where the header info goes</h2>
         <Navigation></Navigation>
    </div>
   );
