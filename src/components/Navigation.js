@@ -4,8 +4,8 @@ import "../css/Navigation.css"
 import { Fragment } from 'react'
 import { Disclosure, Menu, Transition } from '@headlessui/react'
 import { Bars3Icon,  XMarkIcon } from '@heroicons/react/24/outline'
-import headshot from '/Users/ckm/Bootcamp/portfolio/src/components/images/headshot.jpeg'
-import logo from '/Users/ckm/Bootcamp/portfolio/src/components/images/logo.png'
+import headshot from '././images/headshot.png'
+import logo from '././images/logo.png'
 
 function classNames(...classes) {
   return classes.filter(Boolean).join(' ')

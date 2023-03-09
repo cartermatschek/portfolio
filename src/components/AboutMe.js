@@ -1,5 +1,5 @@
 import React from "react";
-import headshot from '/Users/ckm/Bootcamp/portfolio/src/components/images/headshot.jpeg';
+import headshot from '././images/headshot.png';
 
 export default function Example() {
   return (
