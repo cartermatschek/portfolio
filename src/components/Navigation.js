@@ -4,7 +4,7 @@ import "../css/Navigation.css"
 import { Fragment } from 'react'
 import { Disclosure, Menu, Transition } from '@headlessui/react'
 import { Bars3Icon,  XMarkIcon } from '@heroicons/react/24/outline'
-import headshot from '././images/headshot.png'
+import headshot from '././images/Headshot.jpg'
 import logo from '././images/logo.png'
 
 function classNames(...classes) {

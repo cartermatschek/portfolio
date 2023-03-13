@@ -10,10 +10,10 @@ const files = [
   },
   {
     key: "2",
-    title: 'Safe-Nyt',
-    description: 'Todo List App',
-    source: require("./images/safenyt.png"),
-    url: "https://ceca24.github.io/Project-Safe-Nyt/"
+    title: 'README Generator',
+    description: 'Generate README.md in CLI',
+    source: require("./images/README.png"),
+    url: "https://github.com/cartermatschek/README-generator"
   },
   {
     key: "3",
@@ -28,6 +28,34 @@ const files = [
     description: 'Single Day Scheduler App',
     source: require("./images/WorkDay.png"),
     url: "https://cartermatschek.github.io/work-day-scheduler/"
+  },
+  {
+    key: "5",
+    title: 'Text Editor',
+    description: 'Progressive Web App',
+    source: require("./images/texteditor.png"),
+    url: "https://arcane-stream-50193.herokuapp.com/"
+  },
+  {
+    key: "6",
+    title: 'Social Network API',
+    description: 'Back End for Social Network App',
+    source: require("./images/socialnetwork.png"),
+    url: "https://github.com/cartermatschek/social-network-api"
+  },
+  {
+    key: "7",
+    title: 'Note Taker App',
+    description: 'Express.js Demo',
+    source: require("./images/notetaker.png"),
+    url: "https://radiant-coast-34127.herokuapp.com/"
+  },
+  {
+    key: "8",
+    title: 'Password Generator',
+    description: 'Simple Password Generator App',
+    source: require("./images/password.png"),
+    url: "https://cartermatschek.github.io/password-generator/"
   },
 ]
 

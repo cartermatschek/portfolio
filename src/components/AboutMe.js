@@ -1,5 +1,5 @@
 import React from "react";
-import headshot from '././images/headshot.png';
+import headshot from '././images/Headshot.jpg';
 
 export default function Example() {
   return (
@@ -22,15 +22,15 @@ export default function Example() {
               <use href="#b56e9dab-6ccb-4d32-ad02-6b4bb5d9bbeb" x={86} />
             </svg>
             <figcaption className="text-base lg:col-start-1 lg:row-start-3">
-            <div className="font-semibold text-gray-900">Carter Matschek</div>
+            <div className="text-3xl font-semibold text-gray-900">Carter Matschek</div>
             <div className="mt-1 text-gray-500">Full Stack Software Engineer</div>
           </figcaption>
               <p className="text-xl font-semibold leading-8 text-gray-900 sm:text-2xl sm:leading-9">
-              My name is Carter Matschek, and I decided to change my occupation after thirteen years working as a music educator.
-              I am seeking a job in software development and am currently acquiring new knowledge and skills in full-stack coding.
-              I am a team player who communicates and keeps an open mind.
-              My prior experience in education and my ability to learn new things quickly makes me a great candidate for a future
-              on your software team. I look forward to a long and prosperous new career in the field.
+              My name is Carter Matschek and I am an aspiring software engineer. I am a veteran music educator of thirteen years and
+              just completed a certificate in Full Stack Web Development at the University of Texas in Austin.
+              I am a team player, experienced communicator, and life-long learner.
+              My prior experience in education and ability to learn new things quickly, makes me a great candidate for a future
+              on your team. I look forward to a long and prosperous career in the field.
               </p>
           </div>
           <div className="col-end-1 w-16 lg:row-span-4 lg:w-72">

@@ -1,11 +1,11 @@
 import React from "react";
-import resume from "./images/Resume.png";
+import resume from "./images/Resume.jpg";
 
 function Resume() {
   return (
-   <div>
+   <div className="sm:flex sm:justify-center">
 
-<a href={resume} download>Resume
+<a href={resume} download>
 <img src={resume}></img>
 </a>
    </div>
